@@ -1,5 +1,7 @@
 # SharMe
 
+French, simple and reliable social media.
+
 ## Website
 
 SharMe website is currently in development.
@@ -8,12 +10,10 @@ Beta Access entries are open in this [Google Form](http://beta.go.sharme.eu/)
 ## Contact Us
 
 - contact@sharme.eu
-- [Twitter](https://twitter.com/SharMe_eu) @SharMe_eu
+- ~~[Twitter](https://twitter.com/SharMe_eu) @SharMeSocial~~
 - [Discord](https://discord.gg/jnPmDS43Fd) discord.gg/jnPmDS43Fd
 
 ## Partnerships
-
-English partnership form is currently in development.
 
 🇫🇷 [Partner Form](https://docs.google.com/forms/d/e/1FAIpQLSeKtbUIKIIBbBfENpjtQEfYDnEkljZbtYNZdaLmgbg6zDL93Q/viewform)
 
