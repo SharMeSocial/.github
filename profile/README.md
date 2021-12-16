@@ -10,7 +10,7 @@ Beta Access entries are open in this [Google Form](http://beta.go.sharme.eu/)
 ## Contact Us
 
 - contact@sharme.eu
-- [Twitter](https://twitter.com/SharMe_eu) @SharMeSocial
+- [Twitter](https://twitter.com/SharMeSocial) @SharMeSocial
 - [Discord](https://discord.gg/jnPmDS43Fd?event=917433065863782430) discord.gg/jnPmDS43Fd
 
 ## Partnerships
